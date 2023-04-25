@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github.com/kelasweekend/Exam-CBT-Template/blob/master/assets/img/ujian-logo.png" width="400" alt="logo"></p>
-
 ### Exam CBT Frontend
 
 Sistem Ujian Berbasis Website
